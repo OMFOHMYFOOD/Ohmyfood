@@ -1,0 +1,8 @@
+<button class="food-menu-button">Food Menu</button>
+<div class="dropdown-menu">
+  <ul>
+    <li><a href="#">Appetizers</a></li>
+    <li><a href="#">Entrees</a></li>
+    <li><a href="#">Desserts</a></li>
+  </ul>
+</div>
